@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toxakld
 - 👀 I’m interested in c#
-- 🌱 I’m currently learning in kalinigrad's entrepreneurship college
+- 🌱 I’m currently learning in Kalinigrad's Entrepreneurship College
 - 💞️ I’m looking to collaborate on c#
 - 📫 How to reach me: telegram @Toxakld
 
